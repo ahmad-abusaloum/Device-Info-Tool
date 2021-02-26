@@ -9,7 +9,7 @@ It is a tool for fetching your device information like (Bios Serial Number, UUID
 - Run GetDeviceInfoTool.exe
 - click on the Get Data button
 
-# Social media accounts
+# Social Media Accounts
 - Facebook Account : https://www.facebook.com/Ahmad.AbuSaloum
 - Facebook Page : https://www.facebook.com/anonymous.albaq3awy
 - Linkedin Account : https://www.linkedin.com/in/ahmadabusaloum
