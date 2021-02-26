@@ -1,0 +1,12 @@
+C:\Users\Abu_Saloum\Downloads\GetBios\GetBios\GetBios\bin\Debug\GetBios.exe
+C:\Users\Abu_Saloum\Downloads\GetBios\GetBios\GetBios\bin\Debug\GetBios.pdb
+C:\Users\Abu_Saloum\Downloads\GetBios\GetBios\GetBios\obj\Debug\GetBios.csprojAssemblyReference.cache
+C:\Users\Abu_Saloum\Downloads\GetBios\GetBios\GetBios\obj\Debug\GetBios.Properties.Resources.resources
+C:\Users\Abu_Saloum\Downloads\GetBios\GetBios\GetBios\obj\Debug\GetBios.csproj.GenerateResource.cache
+C:\Users\Abu_Saloum\Downloads\GetBios\GetBios\GetBios\obj\Debug\GetBios.csproj.CoreCompileInputs.cache
+C:\Users\Abu_Saloum\Downloads\GetBios\GetBios\GetBios\obj\Debug\GetBios.exe
+C:\Users\Abu_Saloum\Downloads\GetBios\GetBios\GetBios\obj\Debug\GetBios.pdb
+C:\Users\Abu_Saloum\Downloads\GetBios\GetBios\GetBios\bin\Debug\DeviceId.dll
+C:\Users\Abu_Saloum\Downloads\GetBios\GetBios\GetBios\bin\Debug\DeviceId.xml
+C:\Users\Abu_Saloum\Downloads\GetBios\GetBios\GetBios\obj\Debug\GetBios.csproj.CopyComplete
+C:\Users\Abu_Saloum\Downloads\GetBios\GetBios\GetBios\obj\Debug\GetBios.Upgrade.resources
