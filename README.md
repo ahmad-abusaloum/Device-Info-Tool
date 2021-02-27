@@ -7,7 +7,7 @@ It is a tool for fetching your device information like (Bios Serial Number, UUID
 - install project
 - Open "Get-Device-Info-Tool\bin\Debug"
 - Run GetDeviceInfoTool.exe
-- click on the Get Data button
+- click on the 'show device info' button
 
 # Social Media Accounts
 - Facebook Account : https://www.facebook.com/Ahmad.AbuSaloum
